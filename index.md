@@ -5,6 +5,11 @@
 ##### This is an h5 header
 ###### This is an h6 header
 
+## Task list
+
+- [x] This task is done 🎉
+- [ ] This task is not done 🤔
+
 ![Illustration of a black cat in scuba gear staring with curiosity at an inflated pufferfish](https://octodex.github.com/images/scubatocat.png)
 
 ## Code example
